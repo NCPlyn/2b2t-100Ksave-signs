@@ -9,6 +9,8 @@ Gonna post new updated version in future, for now...
 - 108.850 signs with text
 ### 2b2t_100ksave_full_raw.txt
 - 171.397 signs, empty or with text, undecoded symbols and data
+### 2b2t_100ksave_full_otherexec.txt
+- 99.360 signs, done using another extractor
 
 <br/><br/>
 I recommend opening the text file in 'Notepad++'
